@@ -1,0 +1,15 @@
+.cursor-pointer {
+    cursor: pointer !important;
+}
+
+.background-white {
+    background-color: white !important;
+}
+
+.color-black {
+    color: black !important;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #dee2e6 !important;
+}
